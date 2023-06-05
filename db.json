@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "Radenix",
+      "id": 2
+    },
+    {
+      "name": "XausMaster",
+      "id": 3
+    },
+    {
+      "name": "User updated",
+      "id": 4
+    },
+    {
+      "name": "Updated Hello",
+      "id": 5
+    },
+    {
+      "name": "Hello",
+      "id": 6
+    },
+    {
+      "name": "updated",
+      "id": 7
+    }
+  ]
+}
