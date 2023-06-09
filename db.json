@@ -15,28 +15,16 @@
   ],
   "users": [
     {
+      "name": "Made By 👇",
+      "id": 1
+    },
+    {
       "name": "Radenix",
       "id": 2
     },
     {
       "name": "XausMaster",
       "id": 3
-    },
-    {
-      "name": "User updated",
-      "id": 4
-    },
-    {
-      "name": "Updated Hello",
-      "id": 5
-    },
-    {
-      "name": "Hello",
-      "id": 6
-    },
-    {
-      "name": "updated",
-      "id": 7
     }
   ]
 }
